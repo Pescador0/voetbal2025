@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Voetbalcertificaat Downloaden</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      text-align: center;
+      padding: 2em;
+    }
+    .container {
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      padding: 2em;
+      max-width: 600px;
+      margin: auto;
+    }
+    img {
+      max-width: 100%;
+      border: 2px solid #333;
+      border-radius: 8px;
+    }
+    .btn-download {
+      margin-top: 1em;
+      display: inline-block;
+      padding: 0.75em 1.5em;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    .instruction {
+      margin-top: 1.5em;
+      font-size: 0.95em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Download het voetbalcertificaat!</h1>
+    <p>Klik hieronder om het certificaat te downloaden:</p>
+    <img src="https://github.com/Pescador0/voetbal-certificaten/blob/main/CE.png?raw=true" alt="Voetbalcertificaat">
+    <br>
+    <a class="btn-download" href="https://github.com/Pescador0/voetbal-certificaten/blob/main/CE.png?raw=true" download>Download certificaat</a>
+
+    <div class="instruction">
+      <p><strong>Stap 1:</strong> Download het certificaat<br>
+      <strong>Stap 2:</strong> Open het in een tekenprogramma of print het uit<br>
+      <strong>Stap 3:</strong> Schrijf de naam van jouw kind op de witte ruimte 🖊️</p>
+    </div>
+  </div>
+</body>
+</html>
